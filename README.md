@@ -6,7 +6,7 @@ Quiet Space shows how white space makes a web page feel calm and easy to read.
 
 ## Live Site
 
-https://YOUR-GITHUB-USERNAME.github.io/wdd130-bisschoff/
+https://dingusmckpringus.github.io/wdd130-bisschoff/
 
 ## Dev Team
 
